@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EzLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GUILib/out/artifacts/unnamed/EzLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

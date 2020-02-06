@@ -1,0 +1,8 @@
+name: GuiExample
+version: ${project.version}
+main: me.sendpacket.guiexample.GuiExample
+api-version: 1.13
+softdepend: [EzGUILib]
+commands:
+  example:
+    description: Open example GUI
